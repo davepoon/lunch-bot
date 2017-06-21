@@ -1,7 +1,7 @@
 {
   "name": "Lunch Bot",
   "desecription": "Slack bot to remind us of our lunch duties",
-  "repository": "https://github.com/sparkbox/lunch-bot",
+  "repository": "https://github.com/davepoon/lunch-bot",
   "env": {
     "serviceEmail": {
       "description": "The Google Sheets API service email"

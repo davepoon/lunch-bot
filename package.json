@@ -21,7 +21,7 @@
   "engines": {
     "node": "6.9.1"
   },
-  "author": "Sparkbox",
+  "author": "Dave Poon",
   "license": "ISC",
   "dependencies": {
     "babel-cli": "^6.5.1",
